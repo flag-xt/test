@@ -6,4 +6,4 @@ class Git_Test:
         return 'git test'
 
     def __new__(cls, *args, **kwargs):
-        return cls.__new__()
+        return 'hello'
